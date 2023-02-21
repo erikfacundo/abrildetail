@@ -1,0 +1,78 @@
+body{
+    background-color: #222d2d;
+    background-image: url("../img/fondo2.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    align-content: center;
+    
+}
+
+.title, h1, .total, .total1, .select1 , .select2, .titulo{
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    backdrop-filter: blur(30px);
+    border: 5px solid rgba(173, 70, 70, 0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    color:#fff;
+    
+}
+
+.boton{
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #073258;
+    margin: 40px 866px  40px;
+    width: 185px;
+    height: auto;
+
+}
+
+
+.div1{
+   margin: 40px 412px 40px;
+}
+
+
+.div2{
+    margin: 40px 165px 40px;
+}
+.card{
+    background-color: rgba(255,255,255,0.13);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    display: inline-block;
+}
+
+.card *{
+    font-family: 'Poppins',sans-serif;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    border: none;
+}
+h5{
+    font-size: 21px;
+    text-align: center;
+    color: #fff;
+}
+
+p{
+    text-align: center;
+}
+
+.listado-tratamientos{
+    position: relative; 
+    padding: 15px 0;
+    text-align: center;
+    color: #72726b;
+    font-size: 3ch;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+    backdrop-filter: blur(99px);
+    border: 10px solid rgba(227, 0, 0, 0.1);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+  }
+      
