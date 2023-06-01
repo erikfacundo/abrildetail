@@ -1,0 +1,26 @@
+[
+  {
+    "id": "acrilico",
+    "nombre": "Tratamiento Acrilico",
+    "desc": "El mismo cuenta con una proteccion de 6 meses, puede aplicarce una cera en pasta o sellador a base de polimeros",
+    "precio": 40000
+  },
+  {
+    "id": "ceramico3",
+    "nombre": "Tratamiento Ceramico de 3 años",
+    "desc": "El mismo cuenta con una proteccion de 3 años, aplicando un sellador ceramico en base en SiO2/TiO2 el cual proprociona mayor durabilidad, repelencia al agua y contaminantes, suavidad al tacto",
+    "precio": 60000
+  },
+  {
+    "id": "ceramico5",
+    "nombre": "Tratamiento Ceramico de 5 años",
+    "desc": "El mismo cuenta con una proteccion de 5 años, aplicando un sellado en base GRAFENO (extraido en microparticulas de carbono) el mismo genera mayor dureca y un efecto mojado al igual que una cera de Carnauba",
+    "precio": 80000
+  },
+  {
+    "id": "PPF",
+    "nombre": "Paint Protection Film (PPF)",
+    "desc": "Film de proteccion para la pintura con una ganantia de 10 años contra el amarilleo, imposible de traspasar con cualquier elemento punzante, autoregeneracion frente a microrayas generadas por malos lavados(el mismo lo genera con el sol o el calor del vehiculo) ",
+    "precio": "100000 / A consultar "  
+  }
+]
